@@ -127,6 +127,13 @@ vectorizacion, este ha quedado mal, pero me hace gracia el resultado, esta defor
 ![Captura de pantalla de 2021-11-30 10-11-26](https://user-images.githubusercontent.com/90753279/144018573-1ccda4cd-d55b-4278-816a-418030540952.png)
 
 
+Esparcir Cubos: Este efecto convierte en cubos todos los pixeles que hayan en la foto
+
+
+![Captura de pantalla de 2021-11-30 10-17-10](https://user-images.githubusercontent.com/90753279/144019623-c704da7a-c34a-4fdc-a520-7512e7c44444.png)
+
+
+
  
 
 
