@@ -120,9 +120,11 @@ Forma 1 U forma 2
 
 Hay dos inskape, uno es defectuoso, te da un error, te deja utilizarlo durante 5 minutios y despues te saca.
 
-Distorsion:
+Distorsion: Este efecto distorsiona o deforma la imagen que cojamos, yo lo primero  que he hecho ha sido vectorizarla, y despues aplicar efectos en la
+vectorizacion, este ha quedado mal, pero me hace gracia el resultado, esta deformado.
 
 
+![Captura de pantalla de 2021-11-30 10-11-26](https://user-images.githubusercontent.com/90753279/144018573-1ccda4cd-d55b-4278-816a-418030540952.png)
 
 
  
