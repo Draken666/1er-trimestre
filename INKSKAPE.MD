@@ -133,6 +133,8 @@ Esparcir Cubos: Este efecto convierte en cubos todos los pixeles que hayan en la
 ![Captura de pantalla de 2021-11-30 10-17-10](https://user-images.githubusercontent.com/90753279/144019623-c704da7a-c34a-4fdc-a520-7512e7c44444.png)
 
 
+Relleno y transparencia: Este filtro rellena la imagen de x color, es decir el que tu quieras, y si lo vectorizas queda bastante bien.
+
 
  
 
