@@ -115,6 +115,11 @@ iT AL GITHUB DEL DAVID PROFE, referencias inskape---> curso logo a logo y hay un
 Forma 1 + Forma 2
 Forma 1 U forma 2
 
+
+## CURIOSIDAD 
+
+Hay dos inskape, uno es defectuoso, te da un error, te deja utilizarlo durante 5 minutios y despues te saca.
+
  
 
 
